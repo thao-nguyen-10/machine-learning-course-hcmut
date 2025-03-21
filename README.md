@@ -3,6 +3,8 @@ Full name: Nguyen Thi Phuong Thao
 
 Student id: 2470480
 
+Please check the Issues sessions to find solutions for each questions. The resolved questions are set with title "Question # - solved".
+
 This repository is to solving the assignment below:
 
 ![image](https://github.com/user-attachments/assets/359a14d0-acfd-4454-b019-c14fed30b3dd)
